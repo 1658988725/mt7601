@@ -31,4 +31,4 @@ else
 fi 
 
 
-详细见hisitest/
+详细见test/
